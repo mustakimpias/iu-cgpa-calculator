@@ -1,4 +1,4 @@
-IUB CGPA calculator
+IU CGPA calculator
 
 Task list
 - [x] Calculate CGPA & total Credits
